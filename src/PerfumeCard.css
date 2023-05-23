@@ -1,0 +1,10 @@
+@font-face {
+font-family: "Fraunces";
+src: local("Fraunces"),
+    url("./fonts/Fraunces/Fraunces-Italic-VariableFont_SOFT\,WONK\,opsz\,wght.ttf") format("truetype");
+font-weight: bold;
+}
+
+.font-face-fn {
+font-family: "Fraunces";
+}
