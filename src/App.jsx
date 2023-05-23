@@ -1,12 +1,11 @@
 import './App.css'
+import PerfumeCard from './PerfumeCard'
 
 function App() {
- 
-
   return (
     <>
-      <div>
-        
+      <div className="App">
+        <PerfumeCard />
       </div>
     </>
   )
